@@ -1,6 +1,6 @@
 # TODO-APP
 An application which keeps the list of things to done { A TODO LIST }.
-<img src="static/assets/demo.jpg" />
+<img src="static/assets/demo.JPG" />
 
 # HOW TO RUN
 <ul>
